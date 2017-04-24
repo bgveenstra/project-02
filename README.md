@@ -199,4 +199,4 @@ Each group will present their project on **{{ENTER PRESENTATION DATE HERE}}** st
 
 ###### How will we get feedback from instructors?
 
-See the [feedback doc](./project2-feedback.md) for details.
+See the [feedback doc](https://github.com/sf-wdi-36/project-02/blob/master/feedback.md) for details.
