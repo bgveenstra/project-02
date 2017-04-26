@@ -140,40 +140,27 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### Who are my group members and assigned instructor?
 
-#### Group 1 - TBD (INSTRUCTOR)
+#### WeeMe
 
-* TBD
-* TBD
-* TBD
-* TBD
+* Chelsea
+* Gabriela
+* Ashley
+* Kashif
 
-#### Group 2 - TBD (INSTRUCTOR)
+#### TradeUp
 
-* TBD
-* TBD
-* TBD
-* TBD
+* Megan
+* Roman
+* Jesse
+* Archy
 
-#### Group 3 - TBD (INSTRUCTOR)
+#### Explorer 1
 
-* TBD
-* TBD
-* TBD
-* TBD
-
-#### Group 4 - TBD (INSTRUCTOR)
-
-* TBD
-* TBD
-* TBD
-* TBD
-
-#### Group 5 - TBD (INSTRUCTOR)
-
-* TBD
-* TBD
-* TBD
-* TBD
+* Shaya
+* Lamar
+* Ali
+* Chris
+* Carl
 
 ---
 
